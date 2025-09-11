@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "dashboard": "ড্যাশবোর্ড",
+    "prediction": "নতুন পূর্বাভাস",
+    "history": "ইতিহাস",
+    "profile": "প্রোফাইল",
+    "settings": "সেটিংস",
+    "chat": "AI সহায়ক",
+    "signOut": "সাইন আউট"
+  },
+  "auth": {
+    "signIn": "সাইন ইন",
+    "signUp": "সাইন আপ",
+    "email": "ইমেইল",
+    "password": "পাসওয়ার্ড",
+    "fullName": "পূর্ণ নাম",
+    "farmName": "খামারের নাম",
+    "location": "অবস্থান",
+    "phoneNumber": "ফোন নম্বর",
+    "primaryCrops": "প্রধান ফসল",
+    "farmSize": "খামারের আকার (একর)",
+    "createAccount": "অ্যাকাউন্ট তৈরি করুন",
+    "welcomeBack": "ফিরে আসার জন্য স্বাগতম",
+    "alreadyHaveAccount": "ইতিমধ্যে অ্যাকাউন্ট আছে? সাইন ইন করুন",
+    "dontHaveAccount": "অ্যাকাউন্ট নেই? সাইন আপ করুন",
+    "signingIn": "সাইন ইন হচ্ছে...",
+    "creatingAccount": "অ্যাকাউন্ট তৈরি হচ্ছে..."
+  },
+  "profile": {
+    "title": "প্রোফাইল",
+    "editProfile": "প্রোফাইল সম্পাদনা করুন",
+    "save": "পরিবর্তন সংরক্ষণ করুন",
+    "personalInfo": "ব্যক্তিগত তথ্য",
+    "farmDetails": "খামারের বিবরণ",
+    "deviceInfo": "ডিভাইসের তথ্য",
+    "connectedDevices": "সংযুক্ত ডিভাইস",
+    "noDevices": "কোন ডিভাইস সংযুক্ত নেই"
+  },
+  "settings": {
+    "title": "সেটিংস",
+    "language": "ভাষা",
+    "devices": "ডিভাইস ব্যবস্থাপনা",
+    "addDevice": "ডিভাইস যোগ করুন",
+    "deviceId": "ডিভাইস ID",
+    "deviceName": "ডিভাইসের নাম",
+    "deviceType": "ডিভাইসের ধরন",
+    "sensor": "সেন্সর",
+    "controller": "কন্ট্রোলার",
+    "monitor": "মনিটর",
+    "removeDevice": "ডিভাইস সরান"
+  },
+  "device": {
+    "title": "ডিভাইসের বিবরণ",
+    "status": "অবস্থা",
+    "active": "সক্রিয়",
+    "inactive": "নিষ্ক্রিয়",
+    "lastUpdate": "শেষ আপডেট",
+    "data": "ডিভাইস ডেটা",
+    "temperature": "তাপমাত্রা",
+    "humidity": "আর্দ্রতা",
+    "soilMoisture": "মাটির আর্দ্রতা",
+    "noData": "কোন ডেটা উপলব্ধ নেই"
+  },
+  "dashboard": {
+    "welcome": "স্বাগতম",
+    "recentPredictions": "সাম্প্রতিক পূর্বাভাস",
+    "devices": "আপনার ডিভাইস",
+    "quickActions": "দ্রুত কর্ম",
+    "newPrediction": "নতুন পূর্বাভাস",
+    "viewHistory": "ইতিহাস দেখুন"
+  },
+  "chat": {
+    "title": "AI কৃষি সহায়ক",
+    "placeholder": "কৃষি সম্পর্কে যে কোন কিছু জিজ্ঞাসা করুন...",
+    "send": "পাঠান",
+    "typing": "AI টাইপ করছে...",
+    "error": "দুঃখিত, আপনার অনুরোধ প্রক্রিয়া করতে পারিনি। অনুগ্রহ করে আবার চেষ্টা করুন।"
+  },
+  "common": {
+    "save": "সংরক্ষণ",
+    "cancel": "বাতিল",
+    "edit": "সম্পাদনা",
+    "delete": "মুছুন",
+    "add": "যোগ করুন",
+    "loading": "লোড হচ্ছে...",
+    "error": "ত্রুটি",
+    "success": "সফলতা",
+    "confirm": "নিশ্চিত করুন",
+    "back": "পিছনে"
+  }
+}

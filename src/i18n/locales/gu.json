@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "dashboard": "ડૅશબોર્ડ",
+    "prediction": "નવી આગાહી",
+    "history": "ઇતિહાસ",
+    "profile": "પ્રોફાઇલ",
+    "settings": "સેટિંગ્સ",
+    "chat": "AI સહાયક",
+    "signOut": "સાઇન આઉટ"
+  },
+  "auth": {
+    "signIn": "સાઇન ઇન",
+    "signUp": "સાઇન અપ",
+    "email": "ઇમેઇલ",
+    "password": "પાસવર્ડ",
+    "fullName": "પૂરું નામ",
+    "farmName": "ખેતરનું નામ",
+    "location": "સ્થાન",
+    "phoneNumber": "ફોન નંબર",
+    "primaryCrops": "મુખ્ય પાક",
+    "farmSize": "ખેતરનું માપ (એકર)",
+    "createAccount": "ખાતું બનાવો",
+    "welcomeBack": "પાછા સ્વાગત",
+    "alreadyHaveAccount": "પહેલેથી ખાતું છે? સાઇન ઇન કરો",
+    "dontHaveAccount": "ખાતું નથી? સાઇન અપ કરો",
+    "signingIn": "સાઇન ઇન થઈ રહ્યું છે...",
+    "creatingAccount": "ખાતું બની રહ્યું છે..."
+  },
+  "profile": {
+    "title": "પ્રોફાઇલ",
+    "editProfile": "પ્રોફાઇલ સંપાદિત કરો",
+    "save": "ફેરફારો સાચવો",
+    "personalInfo": "વ્યક્તિગત માહિતી",
+    "farmDetails": "ખેતરની વિગતો",
+    "deviceInfo": "ઉપકરણની માહિતી",
+    "connectedDevices": "જોડાયેલા ઉપકરણો",
+    "noDevices": "કોઈ ઉપકરણ જોડાયેલ નથી"
+  },
+  "settings": {
+    "title": "સેટિંગ્સ",
+    "language": "ભાષા",
+    "devices": "ઉપકરણ વ્યવસ્થાપન",
+    "addDevice": "ઉપકરણ ઉમેરો",
+    "deviceId": "ઉપકરણ ID",
+    "deviceName": "ઉપકરણનું નામ",
+    "deviceType": "ઉપકરણનો પ્રકાર",
+    "sensor": "સેન્સર",
+    "controller": "નિયંત્રક",
+    "monitor": "મોનિટર",
+    "removeDevice": "ઉપકરણ દૂર કરો"
+  },
+  "device": {
+    "title": "ઉપકરણની વિગતો",
+    "status": "સ્થિતિ",
+    "active": "સક્રિય",
+    "inactive": "નિષ્ક્રિય",
+    "lastUpdate": "છેલ્લું અપડેટ",
+    "data": "ઉપકરણનો ડેટા",
+    "temperature": "તાપમાન",
+    "humidity": "ભેજ",
+    "soilMoisture": "માટીમાં ભેજ",
+    "noData": "કોઈ ડેટા ઉપલબ્ધ નથી"
+  },
+  "dashboard": {
+    "welcome": "સ્વાગત",
+    "recentPredictions": "તાજેતરની આગાહીઓ",
+    "devices": "તમારા ઉપકરણો",
+    "quickActions": "ઝડપી ક્રિયાઓ",
+    "newPrediction": "નવી આગાહી",
+    "viewHistory": "ઇતિહાસ જુઓ"
+  },
+  "chat": {
+    "title": "AI કૃષિ સહાયક",
+    "placeholder": "ખેતી વિશે કંઈપણ પૂછો...",
+    "send": "મોકલો",
+    "typing": "AI ટાઇપ કરી રહ્યું છે...",
+    "error": "માફ કરશો, તમારી વિનંતી પ્રક્રિયા કરી શકાઈ નથી. કૃપા કરીને ફરી પ્રયાસ કરો."
+  },
+  "common": {
+    "save": "સાચવો",
+    "cancel": "રદ કરો",
+    "edit": "સંપાદિત કરો",
+    "delete": "કાઢી નાખો",
+    "add": "ઉમેરો",
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "error": "ભૂલ",
+    "success": "સફળતા",
+    "confirm": "પુષ્ટિ કરો",
+    "back": "પાછળ"
+  }
+}

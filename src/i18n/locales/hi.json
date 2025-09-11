@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "dashboard": "डैशबोर्ड",
+    "prediction": "नई भविष्यवाणी",
+    "history": "इतिहास",
+    "profile": "प्रोफाइल",
+    "settings": "सेटिंग्स",
+    "chat": "AI सहायक",
+    "signOut": "साइन आउट"
+  },
+  "auth": {
+    "signIn": "साइन इन",
+    "signUp": "साइन अप",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "fullName": "पूरा नाम",
+    "farmName": "फार्म का नाम",
+    "location": "स्थान",
+    "phoneNumber": "फोन नंबर",
+    "primaryCrops": "मुख्य फसलें",
+    "farmSize": "फार्म का आकार (एकड़)",
+    "createAccount": "खाता बनाएं",
+    "welcomeBack": "वापसी पर स्वागत",
+    "alreadyHaveAccount": "पहले से खाता है? साइन इन करें",
+    "dontHaveAccount": "खाता नहीं है? साइन अप करें",
+    "signingIn": "साइन इन हो रहा है...",
+    "creatingAccount": "खाता बन रहा है..."
+  },
+  "profile": {
+    "title": "प्रोफाइल",
+    "editProfile": "प्रोफाइल संपादित करें",
+    "save": "परिवर्तन सहेजें",
+    "personalInfo": "व्यक्तिगत जानकारी",
+    "farmDetails": "फार्म विवरण",
+    "deviceInfo": "डिवाइस जानकारी",
+    "connectedDevices": "जुड़े डिवाइस",
+    "noDevices": "कोई डिवाइस जुड़ा नहीं"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "language": "भाषा",
+    "devices": "डिवाइस प्रबंधन",
+    "addDevice": "डिवाइस जोड़ें",
+    "deviceId": "डिवाइस ID",
+    "deviceName": "डिवाइस का नाम",
+    "deviceType": "डिवाइस प्रकार",
+    "sensor": "सेंसर",
+    "controller": "नियंत्रक",
+    "monitor": "मॉनिटर",
+    "removeDevice": "डिवाइस हटाएं"
+  },
+  "device": {
+    "title": "डिवाइस विवरण",
+    "status": "स्थिति",
+    "active": "सक्रिय",
+    "inactive": "निष्क्रिय",
+    "lastUpdate": "अंतिम अपडेट",
+    "data": "डिवाइस डेटा",
+    "temperature": "तापमान",
+    "humidity": "आर्द्रता",
+    "soilMoisture": "मिट्टी की नमी",
+    "noData": "कोई डेटा उपलब्ध नहीं"
+  },
+  "dashboard": {
+    "welcome": "स्वागत",
+    "recentPredictions": "हाल की भविष्यवाणियां",
+    "devices": "आपके डिवाइस",
+    "quickActions": "त्वरित कार्य",
+    "newPrediction": "नई भविष्यवाणी",
+    "viewHistory": "इतिहास देखें"
+  },
+  "chat": {
+    "title": "AI कृषि सहायक",
+    "placeholder": "खेती के बारे में कुछ भी पूछें...",
+    "send": "भेजें",
+    "typing": "AI टाइप कर रहा है...",
+    "error": "क्षमा करें, आपका अनुरोध संसाधित नहीं हो सका। कृपया पुनः प्रयास करें।"
+  },
+  "common": {
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "add": "जोड़ें",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "confirm": "पुष्टि करें",
+    "back": "वापस"
+  }
+}

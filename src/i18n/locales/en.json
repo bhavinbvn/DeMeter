@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "prediction": "New Prediction",
+    "history": "History",
+    "profile": "Profile",
+    "settings": "Settings",
+    "chat": "AI Assistant",
+    "signOut": "Sign Out"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "fullName": "Full Name",
+    "farmName": "Farm Name",
+    "location": "Location",
+    "phoneNumber": "Phone Number",
+    "primaryCrops": "Primary Crops",
+    "farmSize": "Farm Size (acres)",
+    "createAccount": "Create Account",
+    "welcomeBack": "Welcome Back",
+    "alreadyHaveAccount": "Already have an account? Sign in",
+    "dontHaveAccount": "Don't have an account? Sign up",
+    "signingIn": "Signing In...",
+    "creatingAccount": "Creating Account..."
+  },
+  "profile": {
+    "title": "Profile",
+    "editProfile": "Edit Profile",
+    "save": "Save Changes",
+    "personalInfo": "Personal Information",
+    "farmDetails": "Farm Details",
+    "deviceInfo": "Device Information",
+    "connectedDevices": "Connected Devices",
+    "noDevices": "No devices connected"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "devices": "Device Management",
+    "addDevice": "Add Device",
+    "deviceId": "Device ID",
+    "deviceName": "Device Name",
+    "deviceType": "Device Type",
+    "sensor": "Sensor",
+    "controller": "Controller",
+    "monitor": "Monitor",
+    "removeDevice": "Remove Device"
+  },
+  "device": {
+    "title": "Device Details",
+    "status": "Status",
+    "active": "Active",
+    "inactive": "Inactive",
+    "lastUpdate": "Last Update",
+    "data": "Device Data",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "soilMoisture": "Soil Moisture",
+    "noData": "No data available"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "recentPredictions": "Recent Predictions",
+    "devices": "Your Devices",
+    "quickActions": "Quick Actions",
+    "newPrediction": "New Prediction",
+    "viewHistory": "View History"
+  },
+  "chat": {
+    "title": "AI Agriculture Assistant",
+    "placeholder": "Ask me anything about farming...",
+    "send": "Send",
+    "typing": "AI is typing...",
+    "error": "Sorry, I couldn't process your request. Please try again."
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "back": "Back"
+  }
+}

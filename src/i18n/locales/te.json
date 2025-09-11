@@ -1,0 +1,91 @@
+{
+  "nav": {
+    "dashboard": "డ్యాష్‌బోర్డ్",
+    "prediction": "కొత్త అంచనా",
+    "history": "చరిత్ర",
+    "profile": "ప్రొఫైల్",
+    "settings": "సెట్టింగులు",
+    "chat": "AI సహాయకుడు",
+    "signOut": "సైన్ అవుట్"
+  },
+  "auth": {
+    "signIn": "సైన్ ఇన్",
+    "signUp": "సైన్ అప్",
+    "email": "ఇమెయిల్",
+    "password": "పాస్‌వర్డ్",
+    "fullName": "పూర్తి పేరు",
+    "farmName": "వ్యవసాయ పేరు",
+    "location": "స్థానం",
+    "phoneNumber": "ఫోన్ నంబర్",
+    "primaryCrops": "ప్రధాన పంటలు",
+    "farmSize": "వ్యవసాయ పరిమాణం (ఎకరాలు)",
+    "createAccount": "ఖాతా సృష్టించండి",
+    "welcomeBack": "తిరిగి స్వాగతం",
+    "alreadyHaveAccount": "ఇప్పటికే ఖాతా ఉందా? సైన్ ఇన్ చేయండి",
+    "dontHaveAccount": "ఖాతా లేదా? సైన్ అప్ చేయండి",
+    "signingIn": "సైన్ ఇన్ అవుతోంది...",
+    "creatingAccount": "ఖాతా సృష్టించబడుతోంది..."
+  },
+  "profile": {
+    "title": "ప్రొఫైల్",
+    "editProfile": "ప్రొఫైల్ సవరించండి",
+    "save": "మార్పులను సేవ్ చేయండి",
+    "personalInfo": "వ్యక్తిగత సమాచారం",
+    "farmDetails": "వ్యవసాయ వివరాలు",
+    "deviceInfo": "పరికర సమాచారం",
+    "connectedDevices": "అనుసంధాన పరికరాలు",
+    "noDevices": "పరికరాలు అనుసంధానం లేవు"
+  },
+  "settings": {
+    "title": "సెట్టింగులు",
+    "language": "భాష",
+    "devices": "పరికర నిర్వహణ",
+    "addDevice": "పరికరం జోడించండి",
+    "deviceId": "పరికర ID",
+    "deviceName": "పరికర పేరు",
+    "deviceType": "పరికర రకం",
+    "sensor": "సెన్సార్",
+    "controller": "కంట్రోలర్",
+    "monitor": "మానిటర్",
+    "removeDevice": "పరికరం తొలగించండి"
+  },
+  "device": {
+    "title": "పరికర వివరాలు",
+    "status": "స్థితి",
+    "active": "క్రియాశీలం",
+    "inactive": "నిష్క్రియం",
+    "lastUpdate": "చివరి అప్‌డేట్",
+    "data": "పరికర డేటా",
+    "temperature": "ఉష్ణోగ్రత",
+    "humidity": "తేమ",
+    "soilMoisture": "నేల తేమ",
+    "noData": "డేటా అందుబాటులో లేదు"
+  },
+  "dashboard": {
+    "welcome": "స్వాగతం",
+    "recentPredictions": "ఇటీవలి అంచనాలు",
+    "devices": "మీ పరికరాలు",
+    "quickActions": "త్వరిత చర్యలు",
+    "newPrediction": "కొత్త అంచనా",
+    "viewHistory": "చరిత్రను చూడండి"
+  },
+  "chat": {
+    "title": "AI వ్యవసాయ సహాయకుడు",
+    "placeholder": "వ్యవసాయం గురించి ఏదైనా అడగండి...",
+    "send": "పంపండి",
+    "typing": "AI టైప్ చేస్తోంది...",
+    "error": "క్షమించండి, మీ అభ్యర్థనను ప్రాసెస్ చేయలేకపోయాను. దయచేసి మళ్లీ ప్రయత్నించండి."
+  },
+  "common": {
+    "save": "సేవ్",
+    "cancel": "రద్దు",
+    "edit": "సవరించు",
+    "delete": "తొలగించు",
+    "add": "జోడించు",
+    "loading": "లోడ్ అవుతోంది...",
+    "error": "లోపం",
+    "success": "విజయం",
+    "confirm": "నిర్ధారించు",
+    "back": "వెనుకకు"
+  }
+}
