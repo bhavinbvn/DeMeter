@@ -14,7 +14,10 @@ npm i
 
 npm run dev
 ```
-
+## ML Model:
+```
+https://github.com/bhavinSOL/Ml-Model
+```
 **Edit a file directly in GitHub**
 
 - Navigate to the desired file(s).
