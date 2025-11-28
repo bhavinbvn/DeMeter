@@ -5,6 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import { useAuth } from "@/components/AuthContext";
 import { useToast } from "@/components/ui/use-toast";
 import { useNavigate } from "react-router-dom";
+import ChatBot from "@/components/Chatbot";
 // import { getSoilConditions, type SoilCondition } from "@/lib/firebase";
 // import { getWeatherData, type WeatherData } from "@/lib/weather"; // assume you have this
 import { BarChart } from "lucide-react";
@@ -38,7 +39,7 @@ const getWeatherData = async (): Promise<WeatherData> => {
   // Replace this with actual weather API integration
   return {
     temperature: 20.9,
-    rainfall: 200,
+    rainfall: 0.00,
     humidity: 82,
   };
 };
@@ -378,7 +379,10 @@ const CropRecommendation = () => {
                     )}
                   </CardContent>
                 </Card>
+                <div id="n8n-chat-container"></div>
+                <ChatBot />
       </div>
+      
     </div>
   );
 };

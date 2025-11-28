@@ -34,7 +34,7 @@ const getWeatherData = async (): Promise<WeatherData> => {
   // Replace this with actual weather API integration
   return {
     temperature: 20.9,
-    rainfall: 200,
+    rainfall: 0.00,
     humidity: 82,
   };
 };
